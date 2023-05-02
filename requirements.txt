@@ -1,3 +1,4 @@
 opencv-python-headless
 joblib
 scikit-learn
+opencv-python==4.4.0.46
